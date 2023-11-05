@@ -13,3 +13,4 @@
 - InputFix 你也不想做哑巴吧，史蒂夫
 - laggoggles 实时显示每个方块的mspt占用信息
 - NEI-Utilities NEI大进化，历史记录！（修复版）
+## 如果有其他的mod需要，欢迎提出issue
